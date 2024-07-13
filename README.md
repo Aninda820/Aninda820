@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Aninda Betal</h1>
 <h3 align="center">The quitter you become, the more you are able to hear</h3>
-<p align="right"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="error" width="300px"></p>
+<p align="right"><img src="https://giffiles.alphacoders.com/156/15675.gif" alt="error" width="160px"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aninda820&label=Profile%20views&color=0e75b6&style=flat" alt="aninda820" /> </p>
 
